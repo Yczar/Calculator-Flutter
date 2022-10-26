@@ -6,8 +6,7 @@ The application provides basic calculation functionality – addition, subtracti
 
 # Screenshots
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-10-26 at 22 00 03](https://user-images.githubusercontent.com/32166619/198137340-b61fdcba-b39c-47e9-9ce2-f583a123e1a7.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-10-26 at 22 00 17](https://user-images.githubusercontent.com/32166619/198137364-64ada06d-14ea-41a0-a193-c3084669c84b.png)
+![Simulator Screen Shot - iPhone 13 Pro - 2022-10-26 at 22 00 03](https://user-images.githubusercontent.com/32166619/198137340-b61fdcba-b39c-47e9-9ce2-f583a123e1a7.png) ![Simulator Screen Shot - iPhone 13 Pro - 2022-10-26 at 22 00 17](https://user-images.githubusercontent.com/32166619/198137364-64ada06d-14ea-41a0-a193-c3084669c84b.png)
 
 # Screen Record
 
